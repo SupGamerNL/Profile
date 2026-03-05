@@ -19,8 +19,8 @@ Welcome to my central directory. I operate under several variations of the **Sup
 * **[GitHub](https://github.com/SupGamerNL)** - Home of **Mo-Ores-n-Tools (MOAT)** and experimental source code.
 * **[CurseForge](https://www.curseforge.com/members/supg_nl/projects)** - Creator of **SupG NL's Crazy Mod** and various FNAF-inspired maps.
 * **[Modrinth](https://modrinth.com/user/SupGamerNL)** - High-performance mod distribution and optimization.
-* **[Planet Minecraft](https://www.planetminecraft.com/member/supgamernl/)** - Resource packs, skins, and world saves.
-* **[MCreator](https://mcreator.net/user/SupGamerNL)** - Workspace contributions and community modding projects.
+* **[Planet Minecraft](https://www.planetminecraft.com/member/supgamer_nl/)** - Resource packs, skins, and world saves.
+* **[MCreator](https://mcreator.net/user/252270/supgamer-nl)** - Workspace contributions and community modding projects.
 
 ---
 
@@ -28,9 +28,9 @@ Welcome to my central directory. I operate under several variations of the **Sup
 *Where music meets digital art.*
 
 * **🖼️ [DeviantArt](https://www.deviantart.com/supgamer-nl)** - Featuring digital illustrations and the *White Dragon* series.
-* **🎵 Music:** Find my AI-assisted compositions on **Suno** and **Udio** (Search: `SupGamerNL`).
-* **📽️ YouTube:** [SupGamer NL - Gaming](https://www.youtube.com/@SupGamerNL) - Gameplay, updates, and creative showcases.
-* **🎮 Indie Labs:** Check out my projects on [Itch.io](https://itch.io/) and [Game Jolt](https://gamejolt.com/).
+* **🎵 Music:** Find my AI-assisted compositions on **Suno** [here](https://suno.com/@supgamernl) and **Udio** [here](https://www.udio.com/creators/SupGamer%20NL)
+* **📽️ YouTube:** [SupGamer NL - Gaming](https://www.youtube.com/@SupGamerNLGaming) - Gameplay, updates, and creative showcases.
+* **🎮 Indie Labs:** Check out my projects on [Itch.io](https://supgamernl.itch.io/) and [Game Jolt](https://gamejolt.com/@SupGamerNL).
 
 ---
 
@@ -39,19 +39,18 @@ Welcome to my central directory. I operate under several variations of the **Sup
 
 | Ecosystem | ID / Handle |
 | :--- | :--- |
-| **Twitch** | [SupG_NL](https://twitch.tv/supg_nl) |
+| **Twitch** | [SupG_NL](https://www.twitch.tv/supg_nl) |
 | **Discord** | SupGamer NL |
-| **Steam** | [SupGamer NL](https://steamcommunity.com/id/SupGamerNL) |
-| **SCP Sandbox 3** | SupGamer NL |
+| **Steam** | [SupGamer NL](https://steamcommunity.com/id/SupGamer_NL) |
+| **SCP Sandbox 3** | [SupGamer NL](https://scp-sandbox-3.wikidot.com/supgamernl) |
 | **Platforms** | Warframe, Blizzard, EA, Ubisoft, Epic Games |
-| **Socials** | [Twitter/X](https://x.com/SupGamerNL) • [Reddit](https://reddit.com/u/SupGamer-NL) • [Instagram](#) • [Facebook](#) |
+| **Socials** | [Twitter/X](https://x.com/SupGamer_NL) • [Reddit](https://www.reddit.com/user/SupGamer-NL/) • [Instagram](https://www.instagram.com/supgamernl/) |
 
 ---
 
 ## 🚀 Active Projects
 * **[Mo-Ores-n-Tools (MOAT)](https://github.com/SupGamerNL/Mo-Ores-n-Tools):** Expanding Minecraft 1.21.1 survival with new materials and utilities.
 * **FNAF Fan Maps:** Continued development and updates for immersive fan experiences.
-* **Public Roadmaps:** Track my progress on [Trello](https://trello.com/).
 
 ---
 
@@ -60,4 +59,3 @@ Welcome to my central directory. I operate under several variations of the **Sup
 
 ---
 > 💡 *Interested in collaborating? Reach out via Discord or GitHub Issues!*
-> **[Support on Patreon](https://www.patreon.com/SupGamerNL)**
