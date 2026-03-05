@@ -53,9 +53,4 @@ Welcome to my central directory. I operate under several variations of the **Sup
 * **FNAF Fan Maps:** Continued development and updates for immersive fan experiences.
 
 ---
-
-## 📊 GitHub Analytics
-![SupGamerNL's Stats](https://github-readme-stats.vercel.app/api?username=SupGamerNL&show_icons=true&theme=tokyonight&count_private=true)
-
----
 > 💡 *Interested in collaborating? Reach out via Discord or GitHub Issues!*
